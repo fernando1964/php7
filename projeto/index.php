@@ -1,3 +1,3 @@
 <?php
-echo "Minha primeiro código PHP 7: <strong>Hello World<strong>";
+echo "Minha primeira alteração de arquivo: <strong>Hello World<strong>";
 ?>
